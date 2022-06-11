@@ -1,6 +1,7 @@
 package com.syntax.class15;
 
 public class Task5 {
+    String name; //instance
     /*
     Create a method createEmail(). Based on values of users name,
      lastName and email type, your method should return complete email Address.

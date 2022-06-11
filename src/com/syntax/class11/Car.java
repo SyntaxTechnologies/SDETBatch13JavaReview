@@ -2,7 +2,7 @@ package com.syntax.class11;
 
 public class Car {
 	
-	String model;
+	String model; //instance
 	String make;
 	String color;
 	int year;
@@ -28,7 +28,7 @@ public class Car {
 		System.out.println(bmw.model);
 		bmw.moveForward();
 		bmw.reverse();
-		
+
 		
 		Car lexus=new Car();
 		lexus.make="Lexus";

@@ -50,8 +50,50 @@ add=>    next we write the name of the method which can be anything it should fo
   add(int x,int y) => This part with the name of the method and its parameters is
   called signature of a method
 void add(int x,int y) header of the method
+===========================================================
+Types of Variables in java:
+    There are 3 types of variables 1) local 2) instance 3) static
+Local:
+    if a variable is inside a method or a part of its parameters or a loop or switch statement or if else condition
+    it is called a local variable.
+Instance:
+    if a variable is inside the class but outside of any block of code like method loop
+    switch statement if else condition it is called an instance variable.
 
+static variable:
+    if an instance variable has a static keyword with it then it is called a static
+    variable
+Why learn about different types of variables:
+    1) it helps us reduce the amount of RAM that our application will be using when it will be
+    running.
+    2) With the help of these variables we can pass information between methods of class
+    3) Local variables occupy the memory for the shortest period of time as soon as your method is done
+    executing they are destroyed by a special program called garbage collector
 
+How to use these:
+    Local: create inside block of code
+
+Advantages vs disadvantages
+
+Local variables:
+Advantages:
+    They occupy the memory for the shortest period of time. Always try to use local
+    variables when possible to save memory.
+Disadvantages:
+    They are very limited in scope means we can't access them outside of method or that block
+    of code.
+
+Instance variables:
+Advantages:
+    They have broader scope as compared to local variables, means we can access in all the methods
+    of that class.
+Disadvantages:
+    They occupy the space in your RAM for longer periods of time.
+
+static Variables:
+Advantages:
+    We can call static variables without creating an object of a class.
+    We can share a single value between all the objects of a class
 
 
 

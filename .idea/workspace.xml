@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task6.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/MD2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/MD2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/MD2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/MD2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,33 +52,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.Task2" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.Task3" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VariablesDemo3">
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class15.Task4" />
       <module name="SDETBatch13" />
@@ -117,13 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariablesDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.VariablesDemo1" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariablesDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.VariablesDemo3" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariablesDemo3" />
+        <item itemvalue="Application.VariablesDemo1" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654961293067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl">
+      <created>1654968874849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654968874849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Notes added" />
     <MESSAGE value="Class 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 15" />
+    <MESSAGE value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -188,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/com/syntax/class15/Task3.java</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
