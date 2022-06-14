@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/GoogleEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class11/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +47,13 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariablesDemo3">
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.Task4" />
+  <component name="RunManager" selected="Application.GoogleEmployees">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.Dog" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class15.*" />
+          <option name="PATTERN" value="com.syntax.class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class15.Task5" />
+    <configuration name="GoogleEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.GoogleEmployees" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class15.*" />
+          <option name="PATTERN" value="com.syntax.class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoogleEmployees" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.VariablesDemo3" />
         <item itemvalue="Application.VariablesDemo1" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>

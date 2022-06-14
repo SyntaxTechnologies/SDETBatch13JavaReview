@@ -93,7 +93,7 @@ Disadvantages:
 static Variables:
 Advantages:
     We can call static variables without creating an object of a class.
-    We can share a single value between all the objects of a class
+    We can share a single variable between all the objects of a class
 
 
 
