@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Tester.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 17 access modifiers.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/ConstructorDemos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntelliJFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntellijFeature3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntellijFeatures2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Task1SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Task2Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/TeacherTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class16/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class16/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,32 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.excludes&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "settings.editor.splitter.proportion": "0.33793664"
   }
-}</component>
-  <component name="RunManager" selected="Application.Employee">
-    <configuration name="AccessModifiersDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.AccessModifiersDemo1" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Employee" />
+}]]></component>
+  <component name="RunManager" selected="Application.DogTester">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Dog" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.GoogleEmployees" />
+    <configuration name="DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.DogTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
+          <option name="PATTERN" value="com.syntax.class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.InstanceDemo" />
+    <configuration name="Task1SyntaxEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Task1SyntaxEmployee" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
+          <option name="PATTERN" value="com.syntax.class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.Tester" />
+    <configuration name="Task2Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Task2Students" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
+          <option name="PATTERN" value="com.syntax.class17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.syntax.class17.IntellijFeature3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.IntellijFeature3" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.AccessModifiersDemo1" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.InstanceDemo" />
-        <item itemvalue="Application.GoogleEmployees" />
+        <item itemvalue="Application.DogTester" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Task2Students" />
+        <item itemvalue="Application.com.syntax.class17.IntellijFeature3" />
+        <item itemvalue="Application.com.syntax.class17.Task1SyntaxEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655248405879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class 17 access modifiers.">
+      <created>1655253079400</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655253079400</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +201,8 @@
     <MESSAGE value="Notes added" />
     <MESSAGE value="Class 15" />
     <MESSAGE value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
+    <MESSAGE value="Class 17 access modifiers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 17 access modifiers." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -206,6 +221,16 @@
           <url>file://$PROJECT_DIR$/src/com/syntax/class15/VariablesDemo1.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class17/Dog.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class17/DogTester.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
