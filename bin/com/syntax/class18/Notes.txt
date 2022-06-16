@@ -34,6 +34,16 @@ Rules:
     5) If we don't create a constructor in a class a default constructor with zero parameters
     is created by compiler(Takes the code written by us, and it converts that code to byte code
     which is easier for java to understand).
+    6)it is not allowed to have two constructors in a class with same number of parameters and same type
+this keyword:
+    We can use the "this" keyword to access the instance variables when you have same name variables in your
+    method or constructor or any block of code.
+
+this(): Not that common
+    Calls the constructors of a class inside other constructors.
+    why we should use because it helps us reuse already written constructors if they contain same code
+    why we want to create multiple constructor on the first place because we want give end user flexibility
+    that he can create the objects of our class in many ways.
 
 
 

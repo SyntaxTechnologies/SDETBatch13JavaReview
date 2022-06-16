@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 17 access modifiers.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 18 Constructor.">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/CowTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/ThisKeywordDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarTester">
+  <component name="RunManager" selected="Application.Laptop">
     <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class18.CarTester" />
       <module name="SDETBatch13" />
@@ -60,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Dog" />
+    <configuration name="CowTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.CowTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class17.*" />
+          <option name="PATTERN" value="com.syntax.class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Task2Students" />
+    <configuration name="Laptop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.Laptop" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class17.*" />
+          <option name="PATTERN" value="com.syntax.class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class17.IntellijFeature3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.IntellijFeature3" />
+    <configuration name="ThisKeywordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.ThisKeywordDemo" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class17.*" />
+          <option name="PATTERN" value="com.syntax.class18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Laptop" />
+        <item itemvalue="Application.ThisKeywordDemo" />
+        <item itemvalue="Application.CowTester" />
         <item itemvalue="Application.CarTester" />
         <item itemvalue="Application.DogTester" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Task2Students" />
-        <item itemvalue="Application.com.syntax.class17.IntellijFeature3" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655258778242</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Class 18 Constructor.">
+      <created>1655340050089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655340050089</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Class 18 Constructor.">
+      <created>1655340059089</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655340059089</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +218,8 @@
     <MESSAGE value="Class 15" />
     <MESSAGE value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
     <MESSAGE value="Class 17 access modifiers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 17 access modifiers." />
+    <MESSAGE value="Class 18 Constructor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 18 Constructor." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -228,6 +248,16 @@
           <url>file://$PROJECT_DIR$/src/com/syntax/class17/DogTester.java</url>
           <line>4</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class18/Cow.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class18/Laptop.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
