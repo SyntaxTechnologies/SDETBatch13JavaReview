@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 17 access modifiers.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/ConstructorDemos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntelliJFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntellijFeature3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/IntellijFeatures2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Task1SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Task2Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/TeacherTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11",
-    "settings.editor.selected.configurable": "CodeWithMe",
-    "settings.editor.splitter.proportion": "0.33793664"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DogTester">
+}</component>
+  <component name="RunManager" selected="Application.CarTester">
+    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.CarTester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Dog" />
       <module name="SDETBatch13" />
@@ -72,19 +75,6 @@
     </configuration>
     <configuration name="DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class17.DogTester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1SyntaxEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Task1SyntaxEmployee" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTester" />
         <item itemvalue="Application.DogTester" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Task2Students" />
         <item itemvalue="Application.com.syntax.class17.IntellijFeature3" />
-        <item itemvalue="Application.com.syntax.class17.Task1SyntaxEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655253079400</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Class 17 access modifiers.">
+      <created>1655258778242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655258778242</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
