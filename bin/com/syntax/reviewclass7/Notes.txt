@@ -1,0 +1,22 @@
+Types of variables in java:
+    We have three types of variables 1) local 2)instance 3)static.
+Local variables:
+    Are the variables that we declared inside a block of code
+    upSide:They occupy the memory for shortest period of time
+    downSide: They can't be accessed outside that block in which they are declared.
+Instance Variables:
+    Are the variables that are declared inside a class but outside a block of code.
+    upSIde: Can be accessed in all the methods of class. They can have different values for each
+    instance of that class.
+
+Static variable
+    All the variables which are defined outside a block of code with static keyword they are
+    called static variables.
+    upSide:
+    1) They only reserve a single memory location for all the instances of a class
+    2) They can be accessed by just writing the name of the class and variable name
+
+Break till 8:52
+
+
+
