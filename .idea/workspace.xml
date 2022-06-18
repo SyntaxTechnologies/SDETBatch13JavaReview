@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 18 Constructor.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task6TesterFromPackageClass19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/SDET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task4Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task6Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task9.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 19 Inheritance.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655345876959</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Class 19 Inheritance.">
+      <created>1655573664094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655573664094</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +231,8 @@
     <MESSAGE value="Class 15 All tasks solved from class 14 except the last one because it is already present in repsl" />
     <MESSAGE value="Class 17 access modifiers." />
     <MESSAGE value="Class 18 Constructor." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 18 Constructor." />
+    <MESSAGE value="Class 19 Inheritance." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 19 Inheritance." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
