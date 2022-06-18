@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 18 Constructor.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/B13String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/B13StringTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task6TesterFromPackageClass19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/SDET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task4Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task6Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "CodeWithMe",
-    "settings.editor.splitter.proportion": "0.33793664"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="B13StringTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass7.B13StringTester" />
+}</component>
+  <component name="RunManager" selected="Application.SDET">
+    <configuration name="SDET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.SDET" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.reviewclass7.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass7.Demo1" />
+    <configuration name="com.syntax.class19.DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.DogTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.reviewclass7.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass7.Demo2" />
+    <configuration name="com.syntax.class19.Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.Task8" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.reviewclass7.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Laptop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.Laptop" />
+    <configuration name="com.syntax.class19.Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.Task9" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class18.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisKeywordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class18.ThisKeywordDemo" />
+    <configuration name="com.syntax.class19.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.Tester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class18.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.B13StringTester" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Laptop" />
-        <item itemvalue="Application.ThisKeywordDemo" />
+        <item itemvalue="Application.SDET" />
+        <item itemvalue="Application.com.syntax.class19.DogTester" />
+        <item itemvalue="Application.com.syntax.class19.Tester" />
+        <item itemvalue="Application.com.syntax.class19.Task9" />
+        <item itemvalue="Application.com.syntax.class19.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +286,11 @@
           <url>file://$PROJECT_DIR$/src/com/syntax/reviewclass7/B13StringTester.java</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/class19/Task2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

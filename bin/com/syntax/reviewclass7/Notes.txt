@@ -13,10 +13,39 @@ Static variable
     All the variables which are defined outside a block of code with static keyword they are
     called static variables.
     upSide:
-    1) They only reserve a single memory location for all the instances of a class
-    2) They can be accessed by just writing the name of the class and variable name
+    1) They only reserve a single memory location for all the instances of a class.
+    2) They can be accessed by just writing the name of the class and variable name.
+    downSide:
+    The occupy the memory for longest period of time they always store only one value
+    for all the objects of that class.
 
-Break till 8:52
+Real life use:
+    Most of the time you will be storing constant values in static variables.
+    static is also used heavily with methods that don't involve instance variables
+Access modifiers:
+    There are 3 access modifier keywords(private protected public) and
+    four access levels(private default protected public) in java.
+Rules:
+    Access modifiers can only be used with instance and static members
+    of a class(fields and methods)
+private:
+    when we use private with any method or variable we can only access that method or
+    variable in that class.
+
+Default(it's not a keyword):
+    we can access that member inside the same class inside the same package in other classes.
+public:
+    when we use the public access modifier with members of a class it is available throughout
+    that project.
+Real Life use:
+    99 % of the time instance fields are private.
+    99 % of the time instance and static methods are public.
+===================================================================
+
+
+
+
+
 
 
 
