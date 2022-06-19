@@ -7,5 +7,6 @@ public class BirdTester {
 
         Sparrow sparrow=new Sparrow("jack Sparrow","White",10,.5);
         sparrow.printInfo();
+        // break till 1:35
     }
 }
