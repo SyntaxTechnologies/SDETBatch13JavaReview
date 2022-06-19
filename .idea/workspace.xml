@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 19 Inheritance.">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/AppleLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/SDET.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/SDET.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +59,20 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SDET">
+  <component name="RunManager" selected="Application.GrandChild">
+    <configuration name="GrandChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class20.GrandChild" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SDET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class19.SDET" />
       <module name="SDETBatch13" />
@@ -65,19 +88,6 @@
     </configuration>
     <configuration name="com.syntax.class19.DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class19.DogTester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.syntax.class19.Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.Task8" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrandChild" />
         <item itemvalue="Application.SDET" />
         <item itemvalue="Application.com.syntax.class19.DogTester" />
         <item itemvalue="Application.com.syntax.class19.Tester" />
         <item itemvalue="Application.com.syntax.class19.Task9" />
-        <item itemvalue="Application.com.syntax.class19.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655573664094</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Class 19 Inheritance.">
+      <created>1655582268102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655582268102</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
