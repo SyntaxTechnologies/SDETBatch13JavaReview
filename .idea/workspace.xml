@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 20 super keyword.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/interview/CountDuplicate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/interview/CountDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/ArrayUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class15/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class15/ArrayUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class20/BirdTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class20/BirdTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +118,6 @@
         <item itemvalue="Application.CountDuplicate2" />
         <item itemvalue="Application.com.syntax.interview.CountDuplicates" />
         <item itemvalue="Application.com.syntax.interview.RemoveDuplicates" />
-        <item itemvalue="Application.com.syntax.class20.BirdTester" />
         <item itemvalue="Application.com.syntax.class20.SuperDemo" />
       </list>
     </recent_temporary>
@@ -236,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655657962182</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Class 20 super keyword.">
+      <created>1655665515519</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655665515519</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,10 +321,10 @@
         <watch expression="str.toCharArray()" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[j]" />
+        <watch expression="arr[i]" />
       </inline-watch>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[i]" />
+        <watch expression="arr[j]" />
       </inline-watch>
     </watches-manager>
   </component>
