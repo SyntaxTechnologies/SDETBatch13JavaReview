@@ -1,0 +1,47 @@
+what Method Overloading in Java.
+    with the help of method overloading we can have many methods with same name but
+    different parameters in a class.
+Why we should use MethodOverloading.
+    1) Cleaner code if multiple methods are doing the same thing we don't need to come
+    up with different names.
+    2) Flexibility for the end user.
+How we can use MethodOverloading in java.
+    we can overload a method by changing three things
+    1) Number of parameters
+    2) change the data type of parameters
+    3) we can change the sequence of parameters.
+class Calculator{
+
+int sum(int num1,int num2){
+return num1+num2;
+}
+
+int sum(int num1,int num2,int num3){
+return num1+num2+num3;
+}
+
+double sum(double num1,int num2,int num3){
+return num1+num2+num3;
+}
+
+}
+
+Rules:
+    1) Method names should be same but parameters should be different.
+    2) we can't overload a method by just changing its return type.
+    3) We can also overload constructors by following the same rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
