@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 20 super keyword.">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +54,13 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountDuplicate2">
-    <configuration name="BirdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class20.BirdTester" />
+  <component name="RunManager" selected="Application.MethodOverloading3">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class21.AnimalTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class20.*" />
+          <option name="PATTERN" value="com.syntax.class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class20.SuperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class20.SuperDemo" />
+    <configuration name="MethodOverloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class21.MethodOverloading3" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class20.*" />
+          <option name="PATTERN" value="com.syntax.class21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class21.Tester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.interview.RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.interview.RemoveDuplicates" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodOverloading3" />
+        <item itemvalue="Application.com.syntax.class21.Tester" />
+        <item itemvalue="Application.com.syntax.class21.AnimalTester" />
         <item itemvalue="Application.CountDuplicate2" />
         <item itemvalue="Application.com.syntax.interview.CountDuplicates" />
-        <item itemvalue="Application.com.syntax.interview.RemoveDuplicates" />
-        <item itemvalue="Application.com.syntax.class20.SuperDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655665515519</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Class 20 super keyword.">
+      <created>1655852433466</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655852433466</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
