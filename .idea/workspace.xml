@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 21 Overloading.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/AdvanceCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Greetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 22 Overloading.">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class22/AdvanceCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class22/AdvanceCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +57,9 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AdvanceCalc">
-    <configuration name="AdvanceCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.AdvanceCalc" />
+  <component name="RunManager" selected="Application.EmployeeTester">
+    <configuration name="EmployeeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.EmployeeTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -65,21 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.interview.CountDuplicate2" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Main" />
+    <configuration name="com.syntax.class22.Hamid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Hamid" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class21.MethodOverloading3" />
+    <configuration name="com.syntax.class22.Programming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Programming" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class21.*" />
+          <option name="PATTERN" value="com.syntax.class22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.interview.CountDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.interview.CountDuplicates" />
+    <configuration name="com.syntax.class22.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Task1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.interview.*" />
+          <option name="PATTERN" value="com.syntax.class22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.syntax.class22.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Task2" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdvanceCalc" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MethodOverloading3" />
-        <item itemvalue="Application.CountDuplicate2" />
-        <item itemvalue="Application.com.syntax.interview.CountDuplicates" />
+        <item itemvalue="Application.EmployeeTester" />
+        <item itemvalue="Application.com.syntax.class22.Hamid" />
+        <item itemvalue="Application.com.syntax.class22.Programming" />
+        <item itemvalue="Application.com.syntax.class22.Task2" />
+        <item itemvalue="Application.com.syntax.class22.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655863432786</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Class 22 Overloading.">
+      <created>1655941417955</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655941417955</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,7 +292,8 @@
     <MESSAGE value="Class 20 Inheritance." />
     <MESSAGE value="Class 20 super keyword." />
     <MESSAGE value="Class 21 Overloading." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 21 Overloading." />
+    <MESSAGE value="Class 22 Overloading." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 22 Overloading." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

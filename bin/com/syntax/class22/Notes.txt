@@ -30,6 +30,17 @@ Rules:
     1) Method names should be same but parameters should be different.
     2) we can't overload a method by just changing its return type.
     3) We can also overload constructors by following the same rules.
+=========================================================================
+what is MethodOverriding:
+    Happens when same method exists inside the parent class and the child class.
+Why we should override a method:
+    If we are inheriting from a Parent class and we don't like the implementation
+    of a method from the parent class we can provide our own implementation.
+    Sometimes it's done to improve the performance of code.
+How we can override a method:
+    when we inherit from a class we just need to rewrite that method inside the
+    child class. all should be same except the body and access modifiers.
+
 
 
 
