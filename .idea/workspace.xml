@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 22 Overloading.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class22/AdvanceCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class22/AdvanceCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class22/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/interview/CountDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/interview/CountDuplicate2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
