@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 homework on Adems request">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/WebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656177999048</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Class 23 homework on Adems request">
+      <created>1656183447769</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656183447769</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
