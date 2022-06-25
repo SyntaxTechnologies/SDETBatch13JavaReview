@@ -40,7 +40,16 @@ Why we should override a method:
 How we can override a method:
     when we inherit from a class we just need to rewrite that method inside the
     child class. all should be same except the body and access modifiers.
-
+Rules:
+    1) for Override we must inherit from a class.
+    2) The method in the parent class that we want to override must be exactly the same
+    as method in the child class only the access modifiers can be different
+    3) The access modifiers in the Child class can only be increased with respect to the
+    visibility for example we can change default to protected or to public but we can't make
+    it private.
+    4) if something is not inherited we can't override it for example private methods and
+    constructors.
+    5)
 
 
 
