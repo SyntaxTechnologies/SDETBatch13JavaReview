@@ -37,6 +37,9 @@ Rule:
     4) we can't override constructors because they are also not inherited.
     5) If a method is static we use a different terminology it's called method redeclaration
     instead of overriding.
+===================================================================
+what is Polymorphism:
+
 
 
 

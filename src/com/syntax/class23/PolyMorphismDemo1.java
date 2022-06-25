@@ -10,3 +10,10 @@ public class PolyMorphismDemo1 {
         System.out.println("calculating the text based on new rules");
     }
 }
+
+class PolyTester{
+    public static void main(String[] args) {
+        PolyMorphismDemo1 p=new PolyMorphismDemo1();
+        p.doSomething(10);
+    }
+}

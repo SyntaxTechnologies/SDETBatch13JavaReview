@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 22 Overloading.">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/PolyMorphismDemo1.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 PolyMorphism.">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Developer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/QA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/QA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/ParentTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/ParentTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/PolyMorphismDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/PolyMorphismDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ParentTester">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="EmployeeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class22.EmployeeTester" />
       <module name="SDETBatch13" />
@@ -70,6 +69,19 @@
     </configuration>
     <configuration name="ParentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class23.ParentTester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.Task1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class22.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.Task2" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.ParentTester" />
         <item itemvalue="Application.EmployeeTester" />
         <item itemvalue="Application.com.syntax.class22.Hamid" />
         <item itemvalue="Application.com.syntax.class22.Programming" />
-        <item itemvalue="Application.com.syntax.class22.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656031340094</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Class 23 PolyMorphism.">
+      <created>1656169441362</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656169441363</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +317,8 @@
     <MESSAGE value="Class 20 super keyword." />
     <MESSAGE value="Class 21 Overloading." />
     <MESSAGE value="Class 22 Overloading." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 22 Overloading." />
+    <MESSAGE value="Class 23 PolyMorphism." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 23 PolyMorphism." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
