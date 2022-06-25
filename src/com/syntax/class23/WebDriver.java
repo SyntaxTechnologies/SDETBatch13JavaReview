@@ -57,3 +57,48 @@ class FireFox extends WebDriver{
         System.out.println("Closing the  FireFox");
     }
 }
+
+
+class Safari extends WebDriver{
+    @Override
+    public void startBrowser() {
+        System.out.println("Starting the Safari");
+    }
+
+    @Override
+    public void openUrl(String url) {
+        System.out.println("opening the URL"+url+" on Safari");
+    }
+
+    @Override
+    public void testLoginPage() {
+        System.out.println("Testing the login page on Safari");
+    }
+
+    @Override
+    public void closeBrowser() {
+        System.out.println("Closing the  Safari");
+    }
+}
+
+class Edge extends WebDriver{
+    @Override
+    public void startBrowser() {
+        System.out.println("Starting the Edge");
+    }
+
+    @Override
+    public void openUrl(String url) {
+        System.out.println("opening the URL"+url+" on Edge");
+    }
+
+    @Override
+    public void testLoginPage() {
+        System.out.println("Testing the login page on Edge");
+    }
+
+    @Override
+    public void closeBrowser() {
+        System.out.println("Closing the  Edge");
+    }
+}

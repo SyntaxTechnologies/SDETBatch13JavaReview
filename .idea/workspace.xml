@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 homework done">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/WebDriver.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 homework on Adems request">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class21/MethodOverloading2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/WebDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +51,9 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarTester">
-    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.CarTester" />
+  <component name="RunManager" selected="Application.Tester">
+    <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.BrowserTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -64,21 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class22.EmployeeTester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.ParentTester" />
+    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.CarTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.Tester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.BrowserTester" />
         <item itemvalue="Application.CarTester" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ParentTester" />
-        <item itemvalue="Application.EmployeeTester" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656174206073</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Class 23 homework on Adems request">
+      <created>1656177999048</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656177999048</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +345,8 @@
     <MESSAGE value="Class 22 Overloading." />
     <MESSAGE value="Class 23 PolyMorphism." />
     <MESSAGE value="Class 23 homework done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 23 homework done" />
+    <MESSAGE value="Class 23 homework on Adems request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 23 homework on Adems request" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
