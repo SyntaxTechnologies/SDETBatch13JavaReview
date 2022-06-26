@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 homework on Adems request">
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 Final keyword">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/DatabaseTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +57,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tester">
+  <component name="RunManager" selected="Application.BrowserTester">
     <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class23.BrowserTester" />
       <module name="SDETBatch13" />
@@ -61,38 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.CarTester" />
+    <configuration name="DatabaseTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.DatabaseTester" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.Task1" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.Task2" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class23.*" />
+          <option name="PATTERN" value="com.syntax.class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.syntax.class24.StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.StudentTester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.syntax.class24.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.Tester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.BrowserTester" />
-        <item itemvalue="Application.CarTester" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.DatabaseTester" />
+        <item itemvalue="Application.com.syntax.class24.Tester" />
+        <item itemvalue="Application.com.syntax.class24.StudentTester" />
+        <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +331,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656183447769</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Class 23 Final keyword">
+      <created>1656189075912</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656189075912</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Class 23 Final keyword">
+      <created>1656189083572</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1656189083572</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +373,8 @@
     <MESSAGE value="Class 23 PolyMorphism." />
     <MESSAGE value="Class 23 homework done" />
     <MESSAGE value="Class 23 homework on Adems request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 23 homework on Adems request" />
+    <MESSAGE value="Class 23 Final keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 23 Final keyword" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

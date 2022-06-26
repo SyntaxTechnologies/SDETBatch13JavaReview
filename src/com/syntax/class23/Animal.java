@@ -16,7 +16,6 @@ class Panda extends Animal{
    // no other class can inherit from animal class because it is declared final
    final double G=9.8;
 
-
     void eat(){
        // G=10;
        System.out.println("All the animal eat");

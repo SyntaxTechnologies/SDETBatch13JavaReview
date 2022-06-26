@@ -1,0 +1,59 @@
+What is PolyMorphism:
+    PolyMorphism is the ability of a method to behave differently depending upon the
+    object or parameters that we pass to a method.
+    When we pass different parameters to a method and it behaves differently then it is called.
+    static PolyMorphism or compile time PolyMorphism or early binding.
+    when we achieve the PolyMorphism through method overriding then it is called
+    dynamic binding or run time PolyMorphism or late binding.
+Why we should use PolyMorphism:
+    1) cleaner code.
+    2) we never prefer to change the existing code if we want to improve something
+    we always want to create new methods and new classes. we can call these methods using
+    the parent classes variable/ reference.
+    3) we can call multiple methods from many classes with the help of a single
+    variable. Like we can create the array of objects and with the help of a loop will be able
+    to call all the methods from all the classes.
+How can we PolyMorphism:
+    1) Create a parent child relationship.
+    2) Override the methods in the child classes.
+    3) create the array of all the Child class objects and with the help of loop you can
+    call all the methods from all the child classes.
+Rules:
+    1) All the rules that apply for overriding also apply for the PolyMorphism.
+    2) we can store the object of a child class inside a reference variable of type parent
+    class but, we can't do the reverse.
+    3) we can also create arrays of type parent and they can hold the objects of child classes.
+================================================================
+What is Abstraction:
+    Abstract is providing only the necessary details and hiding
+    all implementations details.
+Why should we learn Abstraction:
+    1) it reduces the code complexity by separating the idea from implementation.
+    2) It helps use enforce rules and convey our requirements.
+How can we use Abstraction:
+    1) create classes with abstract keyword.
+    2) use the abstract keyword with method header and don't
+    provide the body of that method inside the parent class.
+    3) Create the child classes and extend those classes from the parent class and implement the abstract methods
+    4) if we don't want to provide the implementation one or more methods
+    we can declare the child class as abstract as well.
+    5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

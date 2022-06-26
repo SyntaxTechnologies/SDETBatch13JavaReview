@@ -30,5 +30,16 @@ public class BrowserTester {
 
         //Break till 2:05
 
+
+
+        WebDriver v=new FireFox();
+
+        Chrome chrome=(Chrome) v;
+
+/*
+        double num=10.0;
+        int num2=(int)num;*/
+
+
     }
 }
