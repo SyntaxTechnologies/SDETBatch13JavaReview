@@ -1,5 +1,7 @@
 package com.syntax.reviewclass9;
 
+import java.util.Objects;
+
 public class Bicycle {
     String make;
     int gears;
@@ -27,6 +29,19 @@ public class Bicycle {
                 ", maxSpeed=" + maxSpeed +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Bicycle)) return false;
+        Bicycle bicycle = (Bicycle) o;
+        return gears == bicycle.gears && maxSpeed == bicycle.maxSpeed && Objects.equals(make, bicycle.make);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(make, gears, maxSpeed);
+    }
 }
 class MountainBikes extends Bicycle{
     boolean suspension=true;
@@ -47,6 +62,12 @@ class MountainBikes extends Bicycle{
 class Test{
     public static void main(String[] args) {
         Bicycle bike=new Bicycle("TREK",4,30);
-        System.out.println(bike);
+        Bicycle bike2=new Bicycle("TREK",4,30);
+        System.out.println(bike==bike2); // we should never use == to compare non-primitive data types
+        System.out.println(bike.equals(bike2));
+        String name=new String("Hamid");
+        String name2=new String("tara");
+        System.out.println(name.equals(name2));
+       // System.out.println(bike);
     }
 }

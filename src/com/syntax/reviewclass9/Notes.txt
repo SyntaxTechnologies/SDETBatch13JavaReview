@@ -62,6 +62,10 @@ Types of inheritance:
 Single inheritance:
     Only one parent and one child class.
 
+Multilevel inheritance:
+    When we have a parent and a child class and one or may intermediate classes we call
+    it multilevel inheritance.
+
 
 
 

@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class AAbstraction">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Review class 9">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656271450342</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Review class 9">
+      <created>1656635231893</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1656635231893</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +385,8 @@
     <MESSAGE value="Class 23 homework on Adems request" />
     <MESSAGE value="Class 23 Final keyword" />
     <MESSAGE value="Class AAbstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class AAbstraction" />
+    <MESSAGE value="Review class 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review class 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
