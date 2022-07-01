@@ -1,0 +1,79 @@
+OOPS is just a way of writing code a methodology a set of rules that we follow when
+we write code. In this methodology we create classes and objects of those classes to
+represent everything from real life.
+we also have:
+    1)functional programming.
+    2) Procedural programming.
+
+Four Pillars of OOPS:
+    1)Inheritance
+    2)Polymorphism
+    3)Abstraction
+    4)Encapsulation
+Some benefits of OOPs:
+    1) code re-usability.
+    2) Cleaner code
+    3) More flexibility.
+    4) Less code.
+    5) Enforcing rules and hiding the complexity and only focusing on the ideas.
+    6) Secure code.
+1)Inheritance
+    This is a mechanism in java through which a class can acquire the properties and methods
+    of another classes.
+
+Why should we use inheritance:
+    If a piece of code is already present in a class instead of rewriting it or copying it. we
+    can extend our class from that class, and we will get all the non-private methods and fields from
+    that class. It can save a lot of time. It's also good for performance reasons.
+Disadvantages of Inheritance:
+    1)we get the unwanted code as well when we inherit from a class.
+    2)Classes are tightly coupled which means if we change something in the parent class it affects
+    all the child classes.
+How can we use inheritance:
+    we use the extends keyword to inherit the classes.
+
+
+class Parent{
+String name;
+
+void printName(){
+
+}
+
+}
+
+class Child extends Parent{
+
+}
+Rules:
+    1) Inheritance is one way from parent to child only.
+    2) In Java we can't inherit from multiple classes.
+    3) final classes can't be inherited. classes which are declared with final keywords
+    are called final classes.
+    4) private members(fields and methods) are not inherited.
+    5) Constructors are not inherited, but we can call them using super().
+    6) Child classes must provide a matching constructor.
+Types of inheritance:
+    1) Single inheritance.
+    2) Multilevel inheritance.
+    3) hierarchical inheritance.
+    4) Multiple inheritance( Not supported in java).
+
+Single inheritance:
+    Only one parent and one child class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

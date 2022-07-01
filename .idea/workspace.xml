@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 23 Final keyword">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/DatabaseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Task1.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class AAbstraction">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/BrowserTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BrowserTester">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class23.BrowserTester" />
       <module name="SDETBatch13" />
@@ -84,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class23.Tester" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass9.Test" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class23.*" />
+          <option name="PATTERN" value="com.syntax.reviewclass9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.BrowserTester" />
         <item itemvalue="Application.DatabaseTester" />
         <item itemvalue="Application.com.syntax.class24.Tester" />
         <item itemvalue="Application.com.syntax.class24.StudentTester" />
-        <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656189083572</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Class AAbstraction">
+      <created>1656271450342</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656271450342</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +374,8 @@
     <MESSAGE value="Class 23 homework done" />
     <MESSAGE value="Class 23 homework on Adems request" />
     <MESSAGE value="Class 23 Final keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 23 Final keyword" />
+    <MESSAGE value="Class AAbstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class AAbstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -436,10 +437,10 @@
         <watch expression="str.toCharArray()" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[i]" />
+        <watch expression="arr[j]" />
       </inline-watch>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[j]" />
+        <watch expression="arr[i]" />
       </inline-watch>
     </watches-manager>
   </component>
