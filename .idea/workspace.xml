@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Review class 9">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/MethodOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.com.syntax.reviewclass9.Human">
     <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class23.BrowserTester" />
       <module name="SDETBatch13" />
@@ -80,32 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass9.Test" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.reviewclass9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.syntax.class24.StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.StudentTester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.syntax.class24.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class24.Tester" />
       <module name="SDETBatch13" />
@@ -119,13 +91,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.syntax.reviewclass9.Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass9.Human" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.reviewclass9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.syntax.reviewclass9.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.reviewclass9.Test" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.reviewclass9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.com.syntax.reviewclass9.Human" />
+        <item itemvalue="Application.com.syntax.reviewclass9.Test" />
         <item itemvalue="Application.BrowserTester" />
         <item itemvalue="Application.DatabaseTester" />
         <item itemvalue="Application.com.syntax.class24.Tester" />
-        <item itemvalue="Application.com.syntax.class24.StudentTester" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656635231893</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Review class 9">
+      <created>1656637808651</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1656637808651</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

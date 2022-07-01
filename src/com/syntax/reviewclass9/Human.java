@@ -22,6 +22,12 @@ public class Human {
                 ", color='" + color + '\'' +
                 '}';
     }
+
+
+    public static void main(String[] args) {
+        Human human= new Human("Naveed",22,50,"Super white");
+        System.out.println(human);
+    }
 }
 
 class Employee extends Human{
@@ -59,6 +65,13 @@ class SDET extends Employee{
 
     public SDET(String name, int age, double weight, String color, String employeeId, double salary, String title, String department) {
         super(name, age, weight, color, employeeId, salary, title, department);
+    }
+
+    public SDET(String name, int age, double weight, String color, String employeeId, double salary, String title, String department, String programmingLanguage, String framework, boolean knowsSelenium) {
+        super(name, age, weight, color, employeeId, salary, title, department);
+        this.programmingLanguage = programmingLanguage;
+        this.framework = framework;
+        this.knowsSelenium = knowsSelenium;
     }
 
     @Override
