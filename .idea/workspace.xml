@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Review class 9">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/AccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/DDR4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/IP65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch13.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reviewclass9/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +60,20 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.syntax.reviewclass9.Human">
+  <component name="RunManager" selected="Application.AccountTester">
+    <configuration name="AccountTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class25.AccountTester" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class23.BrowserTester" />
       <module name="SDETBatch13" />
@@ -65,25 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.DatabaseTester" />
+    <configuration name="com.syntax.class25.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class25.Task1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.syntax.class24.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class24.Tester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class24.*" />
+          <option name="PATTERN" value="com.syntax.class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountTester" />
+        <item itemvalue="Application.com.syntax.class25.Task1" />
         <item itemvalue="Application.com.syntax.reviewclass9.Human" />
         <item itemvalue="Application.com.syntax.reviewclass9.Test" />
         <item itemvalue="Application.BrowserTester" />
-        <item itemvalue="Application.DatabaseTester" />
-        <item itemvalue="Application.com.syntax.class24.Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656637808651</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Review class 9">
+      <created>1656640909847</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656640909847</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -66,6 +66,41 @@ Multilevel inheritance:
     When we have a parent and a child class and one or may intermediate classes we call
     it multilevel inheritance.
 
+Hierarchical inheritance:
+    when we have a single Parent class and multiple direct child classes it is called
+    Hierarchical.
+======================================
+Super Keyword:
+    Super is a keyword that we use to refer to the parent class fields methods or constructors.
+Why should we use super keyword:
+    1) if we have same name fields inside the parent class and child class we can use the super keyword.
+    to distinguish these fields. It's not that common
+    2) we can use the super() to call the constructor of the parent class as they are not inherited.
+    3) If we have same name methods inside the parent and the child class we can use super keyword
+    to call the method from the parent class.
+
+=======================================
+Method Overloading:
+    whenever same name method exists in a class with different parameters we call it method
+    overloading.
+
+Why we should use MethodOverloading:
+    it helps us write cleaner and more readable code and also provides the flexibility to have
+    same name methods in a class.
+How to create an overloaded method:
+    create same method name but make sure this differs in the number of parameters or in types of
+    parameters or in sequence of parameters.
+
+Rules:
+    1)Method name should be same but parameters should be different.
+    2)By just changing the return type we can't overload a method.
+    3)We can't overload by just changing the access modifiers(private,default,protected,public)
+     and non-access modifiers(final static and abstract).
+    4)We can also overload constructor in the same manner as we do for methods.
+
+
+
+
 
 
 
