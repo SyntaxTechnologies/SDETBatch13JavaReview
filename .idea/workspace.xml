@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 25">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/MoveAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task1.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 26">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class26/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +54,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="AccountTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class25.AccountTester" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo5">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo1" />
       <module name="SDETBatch13" />
@@ -94,6 +81,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo4" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo5" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Test" />
       <module name="SDETBatch13" />
@@ -107,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class25.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class25.Task1" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo4" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.AccountTester" />
-        <item itemvalue="Application.com.syntax.class25.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656790954011</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Class 26">
+      <created>1656865867824</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1656865867824</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,7 +416,8 @@
     <MESSAGE value="Class AAbstraction" />
     <MESSAGE value="Review class 9" />
     <MESSAGE value="Class 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 25" />
+    <MESSAGE value="Class 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
