@@ -1,5 +1,11 @@
 package com.syntax.class26;
 
+import com.sun.org.apache.bcel.internal.generic.LSTORE;
+import com.syntax.reviewclass3.IFElse;
+import kotlin.collections.builders.MapBuilder;
+
+import java.util.Arrays;
+
 public interface MoveAble {
      void move();
 }
@@ -35,5 +41,9 @@ class Test{
 
         // with interfaces, we can also use polymorphism
         MoveAble [] moveAbles={new Car(),new Person()};
+
+
+
+
     }
 }

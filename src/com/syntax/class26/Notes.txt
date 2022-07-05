@@ -23,5 +23,48 @@ How we should use Encapsulation:
     1) make your variables as private.
     2) Create setter and getter methods to read and write these fields.
 ==================================================================
+Basic unit to store data is a variable:
+It's easy to access the value by variable name we don't need to concern about indexes
+problems with variables:
+    1) They can only store one value at a time.
+    2) if we have to store more than one value using variables we have to declare
+    more variables.
+
+Arrays:
+    Arrays can hold multiple values in a single variable we then use indexes to access
+    those values.
+Upside of Arrays:
+    1)Arrays are the fastest data structure when it comes to process the data.
+    2) Arrays occupy 4 times less memory than an arrayList.
+
+problems with Arrays:
+    1)They are fixed in size means once we have created an array we can't modify its size.
+    2) No built-in methods in arrays like add remove findIndex etc.
+
+ArrayList:
+Note:
+// ctl+c to select the complete line
+//shift+end to select all the characters starting from your courser to teh end of line
+soutv to print the last variable
+iter to loop through the elements
+reiter to loop in reverse order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
