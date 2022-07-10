@@ -1,5 +1,7 @@
 package com.syntax.class27;
 
+import sun.security.util.AuthResources_it;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,7 +23,11 @@ public class ListDemo1 {
         legends.remove("Hamid");
         System.out.println(legends);
 
-        List<String> names=new ArrayList<>();
+        List<String> someStudents=new ArrayList<>();
+        someStudents.add("Naveed");
+        someStudents.add("Yusuf");
+        System.out.println(legends.containsAll(someStudents));
+
 
     }
 }

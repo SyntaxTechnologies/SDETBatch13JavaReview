@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 26 remaining part">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 27">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/LinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +56,13 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListDemo1">
-    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo7" />
+  <component name="RunManager" selected="Application.ArrayListVsLinkedList">
+    <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ArrayListVsLinkedList" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class26.*" />
+          <option name="PATTERN" value="com.syntax.class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,25 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo8" />
+    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.LinkedListDemo1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo9" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class26.*" />
+          <option name="PATTERN" value="com.syntax.class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Test" />
+    <configuration name="ListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo2" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class26.*" />
+          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo3" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListVsLinkedList" />
+        <item itemvalue="Application.LinkedListDemo1" />
+        <item itemvalue="Application.ListDemo3" />
+        <item itemvalue="Application.ListDemo2" />
         <item itemvalue="Application.ListDemo1" />
-        <item itemvalue="Application.Demo9" />
-        <item itemvalue="Application.Demo8" />
-        <item itemvalue="Application.Demo7" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656983692023</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Class 27">
+      <created>1657470088439</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1657470088439</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +442,8 @@
     <MESSAGE value="Class 26" />
     <MESSAGE value="Collections framework" />
     <MESSAGE value="Class 26 remaining part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 26 remaining part" />
+    <MESSAGE value="Class 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
