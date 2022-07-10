@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Collections framework">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo9.java" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 26 remaining part">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class26/MoveAble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class26/MoveAble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class26/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class26/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,34 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "settings.editor.splitter.proportion": "0.33793664"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asghar Nazir/IdeaProjects/SDETBatch13JavaReview/src/com/syntax/class11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Demo9">
-    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo5" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.ListDemo1">
     <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Demo7" />
       <module name="SDETBatch13" />
@@ -112,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo1" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class26.Test" />
       <module name="SDETBatch13" />
@@ -127,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListDemo1" />
         <item itemvalue="Application.Demo9" />
         <item itemvalue="Application.Demo8" />
         <item itemvalue="Application.Demo7" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo5" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656876835044</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Class 26 remaining part">
+      <created>1656983692023</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1656983692023</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +429,8 @@
     <MESSAGE value="Class 25" />
     <MESSAGE value="Class 26" />
     <MESSAGE value="Collections framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections framework" />
+    <MESSAGE value="Class 26 remaining part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 26 remaining part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,10 +492,10 @@
         <watch expression="str.toCharArray()" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[i]" />
+        <watch expression="arr[j]" />
       </inline-watch>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[j]" />
+        <watch expression="arr[i]" />
       </inline-watch>
     </watches-manager>
   </component>
