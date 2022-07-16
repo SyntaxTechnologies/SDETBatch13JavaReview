@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 27">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/LinkedListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 28" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -407,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657470088439</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Class 28">
+      <created>1657983179882</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1657983179882</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +441,8 @@
     <MESSAGE value="Collections framework" />
     <MESSAGE value="Class 26 remaining part" />
     <MESSAGE value="Class 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 27" />
+    <MESSAGE value="Class 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,10 +504,10 @@
         <watch expression="str.toCharArray()" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[j]" />
+        <watch expression="arr[i]" />
       </inline-watch>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[i]" />
+        <watch expression="arr[j]" />
       </inline-watch>
     </watches-manager>
   </component>
