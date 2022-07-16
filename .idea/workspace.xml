@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 28">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/SetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/SetDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/SetDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/SetDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class28/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class28/IteratorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/syntax/class28/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class28/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +64,9 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IteratorDemo1">
-    <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ArrayListVsLinkedList" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.IteratorDemo1" />
+  <component name="RunManager" selected="Application.MapDemo2">
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.MapDemo" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.LinkedListDemo1" />
+    <configuration name="MapDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.MapDemo2" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="PATTERN" value="com.syntax.class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo2" />
+    <configuration name="SetDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.SetDemo3" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="PATTERN" value="com.syntax.class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo3" />
+    <configuration name="SetDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.SetDemo4" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="PATTERN" value="com.syntax.class28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.SetDemo5" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IteratorDemo1" />
-        <item itemvalue="Application.ArrayListVsLinkedList" />
-        <item itemvalue="Application.LinkedListDemo1" />
-        <item itemvalue="Application.ListDemo3" />
-        <item itemvalue="Application.ListDemo2" />
+        <item itemvalue="Application.MapDemo2" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.SetDemo5" />
+        <item itemvalue="Application.SetDemo4" />
+        <item itemvalue="Application.SetDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657983428639</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Class 28">
+      <created>1657985571105</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1657985571105</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -14,4 +14,65 @@ Iterator:
     whenever we try to modify the size of a list using simple loop there are chances that it will
     not work or will throw an error because lists are dynamic and can change the size at runtime
     so to be always on the safe side we should use Iterators.
+========================================================================================
+Set:
+1) Duplicates are not allowed
+We will be discussing three types of sets:
+    1) HashSet 2) LinkedHashset  3) TreeSet
+HashSet:
+    Upside:it is the fastest of all
+    Downside:No Insertion order is maintained
+
+LinkedHashSet:
+    Upside:Insertion order is maintained
+    DownSide: retrieval of element will be super slow
+    insertion speed slower than Hashset;
+
+TreeSet:
+    UpSide: Elements will always be in sorted form
+    Downside: insertion speed is slowest of all
+    Retrieval Speed better than linkedList but slower than Hasset.
+===================================================================
+Map:
+Map is an interface in java that allow us store key value pairs
+we can't have duplicate keys but we can have duplicate values
+We will be discussing three of them
+1) HashMap
+2) LinkedHashmap
+3) TreeMap
+HashMap:
+    Upside:Fastest when it comes to insert and retrieve the elements.
+    Downside: No insertion order.
+
+LinkedHashMap:
+    Upside: Insertion order will be maintained.
+    Downside:   Retrieval will be slowest
+TreeMap:
+    Upside: data will be stored in the sorted form based on key.
+    Downside: insertion is the slowest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
