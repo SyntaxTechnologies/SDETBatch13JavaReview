@@ -9,5 +9,9 @@ ArrayList:
 LinkedList:
     Most of our operations will be writing the data to a list in between or in the start or shifting the
     data we should be going with LinkedList.
-
+Iterator:
+    is an interface that has three methods hasNext() next() and remove().
+    whenever we try to modify the size of a list using simple loop there are chances that it will
+    not work or will throw an error because lists are dynamic and can change the size at runtime
+    so to be always on the safe side we should use Iterators.
 

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 28" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 28">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class28/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class28/IteratorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class28/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class28/Notes.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,7 @@
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListVsLinkedList">
+  <component name="RunManager" selected="Application.IteratorDemo1">
     <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ArrayListVsLinkedList" />
       <module name="SDETBatch13" />
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.LinkedListDemo1" />
+    <configuration name="IteratorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class28.IteratorDemo1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class27.*" />
+          <option name="PATTERN" value="com.syntax.class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.ListDemo1" />
+    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class27.LinkedListDemo1" />
       <module name="SDETBatch13" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorDemo1" />
         <item itemvalue="Application.ArrayListVsLinkedList" />
         <item itemvalue="Application.LinkedListDemo1" />
         <item itemvalue="Application.ListDemo3" />
         <item itemvalue="Application.ListDemo2" />
-        <item itemvalue="Application.ListDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657983179882</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Class 28">
+      <created>1657983428639</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1657983428639</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
