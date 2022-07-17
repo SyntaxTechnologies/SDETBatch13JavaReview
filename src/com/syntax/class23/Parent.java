@@ -25,6 +25,7 @@ class ParentTester{
         Child.sleep();
         Child.activity();
 
+        Parent parent=new Child();
         Parent.activity();
         Child.activity();
 

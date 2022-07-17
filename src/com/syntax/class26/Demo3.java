@@ -1,6 +1,6 @@
 package com.syntax.class26;
 
-import sun.util.resources.cldr.mg.LocaleNames_mg;
+
 
 public class Demo3 {
     public static void main(String[] args) {

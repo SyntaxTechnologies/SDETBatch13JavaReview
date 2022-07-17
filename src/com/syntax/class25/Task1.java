@@ -1,6 +1,6 @@
 package com.syntax.class25;
 
-import com.sun.media.sound.SoftTuning;
+
 
 import javax.tools.JavaFileObject;
 import java.util.Scanner;
