@@ -5,353 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 29">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/CollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ExcelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ConfigFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ConfigFileDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/Task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class11/Task9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/StringDemo8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Recap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Recap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Recap2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Recap3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Recap3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/StringBuilderDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/StringBuilderDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/StringDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class13/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class13/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/MethodsDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/Recap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringBuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/StringBuilderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/StringBuilderVsString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/StringBuilderVsString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class14/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class14/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/ArrayUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/MD2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/MD2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/MethodsDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/MethodsDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class15/VariablesDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/AccessModifiersDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/AccessModifiersDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/EmployeeTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/EmployeeTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/GoogleEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/GoogleEmployees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/InstanceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/InstanceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/StaticDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/StaticDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class16/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class16/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/ConstructorDemos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/ConstructorDemos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/DogTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/DogTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/IntelliJFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/IntelliJFeatures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/IntellijFeature3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/IntellijFeature3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/IntellijFeatures2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/IntellijFeatures2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task1SyntaxEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Task1SyntaxEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Task2Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Task2Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/TeacherTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/TeacherTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class17/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/CarTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/CarTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/CowTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/CowTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Laptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/Task6TesterFromPackageClass19.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/Task6TesterFromPackageClass19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class18/ThisKeywordDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class18/ThisKeywordDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/AppleLaptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/AppleLaptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/DogTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/DogTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/SDET.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/SDET.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task4Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task4Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task6Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task6Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Task9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class19/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class19/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/BMW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/BirdTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/BirdTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Chair.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Chair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/ChemistryTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/ChemistryTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Furniture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/G.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/G.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/GrandChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/GrandChild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/GrandParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/GrandParent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Laptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/MathTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/MathTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Parrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/PianoTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/PianoTeacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Sparrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Sparrow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/SuperDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/SuperDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class20/Wood.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class20/Wood.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/AnimalTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/AnimalTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/MethodOverloading3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/UserClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/UserClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class21/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class21/UserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/AdvanceCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Developer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/EmployeeTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/EmployeeTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Greetings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Hamid.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Hamid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/OfficeBoy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/OfficeBoy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Programming.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Programming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/QA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/QA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class22/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class22/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/AX.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/AX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/BMW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Bachelors.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Bachelors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/BrowserTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/CarTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/CarTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Chrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Chrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/CreditCard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Degree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Degree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/FireFox.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/FireFox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Masters.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Masters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Panda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/ParentTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/ParentTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/PolyMorphismDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/PolyMorphismDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/PolyTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/PolyTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Safari.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Safari.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Tesla.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Tesla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Toyota.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/Visa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/Visa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class23/WebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class23/WebDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/CollegeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/CollegeStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/DatabaseTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/DatabaseTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Informix.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Informix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Iphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Iphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/MySQLServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/MySQLServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Samsung.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Samsung.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/SchoolStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/SchoolStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/StudentTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/StudentTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/SyntaxStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/SyntaxStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class24/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class24/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/AccountTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/AccountTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/DDR3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/DDR3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/DDR4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/DDR4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/FastChargeAble.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/FastChargeAble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/File.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/FiveG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/FiveG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/Husky.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/Husky.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/IP65.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/IP65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/JavaFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/JavaFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/PdfFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/PdfFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/S21Ultra.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/S21Ultra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/SamsungRam.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/SamsungRam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class25/WordFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class25/WordFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/ChromeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/ChromeDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Demo9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/FirefoxDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/FirefoxDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/MoveAble.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/MoveAble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class26/WebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class26/WebDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/ArrayListVsLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/ArrayListVsLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/GenericDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/IteratorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/LinkedListDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/LinkedListDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class27/ListDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Flower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Health.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Health.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Insurance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Insurance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/IteratorDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/IteratorDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Lilly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Lilly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/ListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/ListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/ListDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/ListDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/MapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/MapDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/MapDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Rose.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Rose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/SetDemo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class29/MapDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class29/MapDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class29/MapDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class29/MapDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class29/SetDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class29/SetDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class29/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class29/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/interview/CountDuplicate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/interview/CountDuplicate2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/interview/CountDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/interview/CountDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/interview/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/interview/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Variables2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass1/Variables2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/IfElseDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/OperatorsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/OperatorsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/ScannerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/ScannerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/StringConCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass2/StringConCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/HW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IFElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IFElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElse6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElseVsSwitch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/IfElseVsSwitch1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/ScannerAndSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/ScannerAndSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/SwitchDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass3/SwitchDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/ForLoopDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/HW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopsDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/NestedLoopsDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass4/WhileLoopDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/Arrays2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/Arrays2D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ArraysDemo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/BreakManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ContinueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ContinueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ContinueDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/ContinueDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/NestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass5/NestedLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13StringTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/B13StringTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass7/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Developer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Developer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MethodOverloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/MountainBikes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/SDET.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/SDET.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/reviewclass9/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class23/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class23/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class25/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class25/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class26/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class26/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class26/MoveAble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class26/MoveAble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class27/ListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class29/MapDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +52,20 @@
     "settings.editor.splitter.proportion": "0.33793664"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MapDemo8">
+  <component name="RunManager" selected="Application.ConfigFileDemo">
+    <configuration name="ConfigFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class29.ConfigFileDemo" />
+      <module name="SDETBatch13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MapDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class29.MapDemo6" />
       <module name="SDETBatch13" />
@@ -435,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.syntax.class29.MapDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class29.MapDemo4" />
-      <module name="SDETBatch13" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class29.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.syntax.class29.MapDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class29.MapDemo5" />
       <module name="SDETBatch13" />
@@ -463,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConfigFileDemo" />
         <item itemvalue="Application.MapDemo8" />
         <item itemvalue="Application.MapDemo7" />
         <item itemvalue="Application.MapDemo6" />
         <item itemvalue="Application.com.syntax.class29.MapDemo5" />
-        <item itemvalue="Application.com.syntax.class29.MapDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -781,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658071858983</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Class 29">
+      <created>1658082331036</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1658082331036</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
