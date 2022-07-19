@@ -1,0 +1,52 @@
+Method Overriding:
+    When same method exists in parent and child class.
+Why we should use method overriding.
+     Same method can behave differently on different objects. It allows us to achieve polymorphism.
+What is the syntax to achieve method overriding:
+    Redefine the method with same header inside the child class.
+class Parent{
+
+void sleep(){
+sout"i sleep 8 hours"
+}
+}
+class Child extends Parent{
+
+void sleep(){
+sout"i sleep 6 hours"
+
+}
+
+
+public static void main(String[] args){
+
+Parent parent=new Child();  //polymorphism
+parent.sleep();
+}
+}
+
+Rules:
+    1)There should inheritance between classes.
+    2) Method header should be same(access modifiers return type method name parameters).
+    3) we can't override the private methods because private methods don't participate in
+    inheritance.
+    4) Constructors can't be overridden because they also don't participate in inheritance.
+    5) we can only increase the visibility of a method inside the child class, but we
+     can't decrease it for example if a method is declared protected or default we can change
+     it to public, but we can't do the reverse.
+     6) We don't say we override the static methods we say we have declared the static methods.
+     7) Methods that are declared with the final keyword can't be overridden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
