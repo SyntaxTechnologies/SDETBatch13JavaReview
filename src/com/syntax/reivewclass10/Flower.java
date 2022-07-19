@@ -19,11 +19,16 @@ public class Flower {
     void bloom(){
         System.out.println("Generally bloom in Spring");
     }
+    public static void main(String[] args) {
 
+    }
 }
 
 class Rose extends Flower{
 
+    public static void main(String[] args) {
+
+    }
     Rose(String color) {
         super(color);
     }

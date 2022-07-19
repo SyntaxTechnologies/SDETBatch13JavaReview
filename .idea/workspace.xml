@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 29">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/FlowerTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Notes.txt" afterDir="false" />
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="review class 10">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/SellAble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class29/ConfigFileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class29/ConfigFileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658085397844</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="review class 10">
+      <created>1658190703686</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1658190703686</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +499,8 @@
     <MESSAGE value="Class 27" />
     <MESSAGE value="Class 28" />
     <MESSAGE value="Class 29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 29" />
+    <MESSAGE value="review class 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="review class 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
