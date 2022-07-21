@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="review class 10">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/SellAble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/reivewclass10/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class29/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class29/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asghar Nazir/OneDrive - Higher Education Commission/Syntax/java/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.33793664&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Asghar Nazir/OneDrive - Higher Education Commission/Syntax/java/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.33793664"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.FlowerTester">
     <configuration name="ConfigFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class29.ConfigFileDemo" />
@@ -562,10 +557,10 @@
         <watch expression="str.toCharArray()" />
       </configuration>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[j]" />
+        <watch expression="arr[i]" />
       </inline-watch>
       <inline-watch fileUrl="file://$PROJECT_DIR$/src/com/syntax/interview/RemoveDuplicates.java" line="19">
-        <watch expression="arr[i]" />
+        <watch expression="arr[j]" />
       </inline-watch>
     </watches-manager>
   </component>
