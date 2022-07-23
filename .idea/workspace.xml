@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 30">
-      <change afterPath="$PROJECT_DIR$/Files/Abdul.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/SDETBatch13.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExcelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExcelDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExcelDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/PropertiesFileReadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/propertiesCreateFileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Health.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Health.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Insurance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Insurance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class28/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class28/Task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class28/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class28/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class30/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class30/Notes.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f8996924-dc57-4eef-9fe7-ff7d4b87e2ef" name="Changes" comment="Class 30" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -493,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658590356642</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Class 30">
+      <created>1658603808320</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1658603808320</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
