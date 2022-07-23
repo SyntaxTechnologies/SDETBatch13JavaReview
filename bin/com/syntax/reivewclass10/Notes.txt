@@ -36,6 +36,46 @@ Rules:
      it to public, but we can't do the reverse.
      6) We don't say we override the static methods we say we have declared the static methods.
      7) Methods that are declared with the final keyword can't be overridden.
+==============================================================================================
+final keyword:
+    final in java represent completeness. If something is complete and does not need any modification then we
+    use the final keyword with that entity.
+1)When final is used wit properties/fields/instance variable we can't reassign those variables.
+2)When used with methods these methods can' be overridden in child classes.
+3)When used with class names no other class can inherit from that class.
+================================================================================================
+Abstraction:
+    is hiding the implementation details and only showing the functionality.
+Why we should use Abstraction:
+    with the help of abstraction we can reduce the complexity of code by only focusing on the input/ output
+    of a method instead of focusing on the logic of that method.
+What is the syntax for abstraction:
+    whenever we have to create abstract methods we don't provide the implementation/body of the method
+    we  only provide the header of the method and we use the abstract keyword.
+Rules:
+    1)Abstract methods can't have a body.
+    2)Abstract classes can have abstract and non-abstract methods.
+    3)Abstract classes can't be instantiated(Can't create the object of that class).
+    4)Abstract classes can't be declared final.
+    5) we use abstract keyword for abstract classes and methods.
+    6) if we inherit,child class has to implement the methods or we can declare the child class as abstract too.
+=========================================================================================
+interfaces:
+    are contracts that classes implement. we can also achieve abstraction with interfaces.
+Why should we use interfaces:
+    1) They allow multiple inheritance.
+    2) They don't have the issue of tightly coupled code.
+Syntax to use interface:
+    interface nameOfInterface{
+    }
+Rules:
+    1) All variables in interfaces are public static final.
+    2) No instance variables.
+    3) Constructors are also not allowed.
+    4) By default methods are public and abstract.
+    5) a single class can implement many interfaces.
+    6) an interface can extend another interface.
+
 
 
 
