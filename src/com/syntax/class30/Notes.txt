@@ -20,7 +20,17 @@ We can use three methods to get the data from a map
     2) KeySet(): it will return all the keys from a map in the form of a set.
     3) values(): it will return us all the values from a map in the form of a collection.
 
+========================================================================================
+FileHandling in java:
+    We need to have below three things in order to read/write a file Manually.
+    1) Path of the file that we want to read/write
+    2) we need to navigate to that file.
+    3) we need to have a software installed on our computers to interact with that file.
 
+    We need to have below three things in order to read/write a file Manually.
+    1) Path of a file we can store inside a String
+    2) we can use the FIleInputStream/FileOutputStream class to navigate to that folder.
+    3) we use a specific java class that can handle that file type
 
 
 
